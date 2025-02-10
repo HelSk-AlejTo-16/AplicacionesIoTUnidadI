@@ -1,4 +1,4 @@
-![411403501-3506bfd2-25aa-466e-a663-8cfca037e59c](https://github.com/user-attachments/assets/03c14931-afca-4f22-805a-3491832b36c2)# AplicacionesIoTUnidadI
+# AplicacionesIoTUnidadI
 ## Parte Teórica (30 Puntos)
 ### Ejercicios de NetAcad Python Fundamentals 2
 - **Capturas de Pantalla**: 
@@ -32,8 +32,7 @@
 
 #### Ejercicio 4: Figura 2D o 3D Soldada (10 Puntos)
 
-- **Fotografía en Repositorio**:![411403501-3506bfd2-25aa-466e-a663-8cfca037e59c](https://github.com/user-attachments/assets/fd9ad2ed-4209-4b06-9dcc-3dcb097813f4)
-
+- **Fotografía en Repositorio**:![411403501-3506bfd2-25aa-466e-a663-8cfca037e59c](https://github.com/user-attachments/assets/03c14931-afca-4f22-805a-3491832b36c2)
 
 ## Parte Socioafectiva (10 Puntos)
 - **Puntualidad en la Entrega de Evidencias**: [Ver evidencias](#)
@@ -46,7 +45,5 @@
 - **Herramientas**: Protoboard, Cautín, Placa Fenólica, Multímetro
 
 ## Contribuciones
-Este proyecto fue realizado por [Tu Nombre] como parte de la evaluación ordinaria de la asignatura **Aplicaciones de IoT**.
+Este proyecto fue realizado por Torres Pérez Leonel Alejandro  como parte de la evaluación ordinaria de la asignatura **Aplicaciones de IoT**.
 
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
