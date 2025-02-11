@@ -9,16 +9,17 @@
 
 ## Parte Práctica (60 Puntos)
 ### Ejercicio 1: Almacenamiento de Datos (15 Puntos)
-- **Diagrama de Conexión**: [Ver diagrama](/proyectos/ejercicio_1_almacenamiento_datos/diagramas)
+- **Diagrama de Conexión**:
 - ![411400644-96ab78e6-de6c-4ea3-864f-35534de07fcc](https://github.com/user-attachments/assets/bb41f19c-be00-474f-937e-35b03930f76d)
 
-- **Código Documentado**: [Ver código](/proyectos/ejercicio_1_almacenamiento_datos/codigo)
+- **Código Documentado**: [Ver código](/sensor.py)
+-  **Código Documentado**: [Ver código](/hcsr04.py)
 - **Video de Funcionamiento**: (https://drive.google.com/file/d/1w5118TEMS008U516-5bPA2pM1vbtFpZL/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
 - **Diagrama de Conexión**: ![411401682-e77cff2b-5aec-4db7-acfc-9196d9806d08](https://github.com/user-attachments/assets/8f06b017-6aea-418d-8cd0-7d6a96640872)
 
-- **Código Documentado**: [Ver código](/proyectos/ejercicio_2_control_actuadores/codigo)
+- **Código Documentado**: [Ver código](/Actuador_Sensor.py)
 - **Video de Funcionamiento**: https://drive.google.com/file/d/1wGsc4v-8hFeHyuOVFHnhoY00KnaHyv3M/view?usp=sharing
 - 
 
